@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## Modern UI/UX GPT-3
+
+### [Live Site](https://gpt3-jsm.com/)
+
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Website design was taken from [AR Shakir's Designs](https://www.arshakir.com)
 
 ## Available Scripts
 
